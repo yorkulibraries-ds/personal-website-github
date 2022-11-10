@@ -1,3 +1,3 @@
-# carpentries-rr-vc
+# Reproducible Research Version Control
 
-This workshop is based off of the Data Carpentry workshop Reproducible Research Version Control (https://datacarpentry.org/rr-version-control/)
+This York University Libraries workshop is based off of the Data Carpentry workshop Reproducible Research Version Control (https://datacarpentry.org/rr-version-control/)
