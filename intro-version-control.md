@@ -8,7 +8,7 @@ Version control is a system that records changes to a file or set of files over 
 How do you record the history of your projects?
 
 ### Bad - Run on file names
-![](../fig/phd101212s.png)
+![Final.doc comic](/final_PhD.png)
 
 [PhD Comics](http://www.phdcomics.com)
 
