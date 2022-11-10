@@ -32,14 +32,16 @@ output:
 > 1. Collaborate by forking and editing partners file
 > 1. Explore Github features: graphs, diff, blame, ect.
 {: .keypoints}
+
 ## Step-by-Step
 ### Create a repository with a `README.md` file
 Follow along with your instructor and perform these steps:
 1. Go to your Github profile. The url should be http://github/your-user-name.
-1. Create a new Github repository, click the green "new" button, under the repositories tab.
-1. Name your repository work-organization-your-name
-1. In the details write "tips to organizing research".
-1. Click the initiate a README.md file option.
+2. Create a new Github repository, click the green "new" button, under the repositories tab.
+![Screenshot to create a new GitHub Repository](/carpentries-rr-vc/assets/img/rr-vc-2-1.png)
+3. Name your repository work-organization-your-name
+4. In the details write "tips to organizing research".
+5. Click the initiate a README.md file option.
 
 ### So far
 - A repository is a directory (folder) that houses both the files of a project AND the git history of the project.
