@@ -1,10 +1,12 @@
-#Setup
+# Setup
 
----
-layout: page
-title: Setup
-permalink: /setup/
----
+## Prerequisites
+The workshop requires:
+- Git installed
+- a GitHub account
+- RStudio installed
+
+## Git
 Your installation for `Git` will vary depending on your operating system.
 
 - Mac OSX - `git` is already installed on your machine.
@@ -33,3 +35,7 @@ Type the following line into the command prompt window exactly as shown:
 
 Press [Enter], you should see `SUCCESS: Specified value was saved`.
 Quit command prompt by typing `exit` then pressing [Enter]
+
+## GitHub Account
+
+## RStudio
