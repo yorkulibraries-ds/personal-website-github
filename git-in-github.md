@@ -12,11 +12,13 @@
 ### Create a repository with a `README.md` file
 Follow along with your instructor and perform these steps:
 1. Go to your GitHub profile. The url should be http://github/your-user-name.
-2. Create a new GitHub repository, click the green "new" button, under the repositories tab.
-![Screenshot to create a new GitHub Repository](/carpentries-rr-vc/assets/img/rr-vc-2-1.png)
-3. Name your repository work-organization-your-name
-4. In the details write "tips to organizing research".
+2. To create a new GitHub repository, click the green "new" button, under the repositories tab.
+![Screenshot to create a new GitHub Repository from GitHub Profile](/carpentries-rr-vc/assets/img/rr-vc-2-1.png)
+3. Name your repository organization-your-name, e.g. "yorku-janedoe"
+4. In the details write "Tips to organizing research".
 5. Click the initiate a README.md file option.
+6. Select to make the repository public.
+![Screenshot to create a new GitHub Repository and select its settings](/carpentries-rr-vc/assets/img/rr-vc-2-2.png)
 
 ### So far
 - A repository is a directory (folder) that houses both the files of a project AND the git history of the project.
@@ -31,14 +33,15 @@ Follow along with your instructor and perform these steps:
   - What kind of scientist do you you tell people you are at dinner parties?
   - In the past month, what are the three main activities you have been doing at work?
   - What are the three most important tools/strategies you use for organizing your work?
-  
+![Screenshot to edit your README.md file](/carpentries-rr-vc/assets/img/rr-vc-2-3.png)
 *tip*: Notice that you can use markdown syntax. Use [this guide](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) for GitHub's flavor of `Markdown`. Use the "Preview" button to view the formatting of your `README.md` file.
 
 ### Commit
 - Commit takes a snap shot of your project. Each commit includes a commit message that concisely defines changes made or project state at the time of the commit.
 
 1. Summarize the changes that you have made in 50 characters or less and click the green "commit button".
-1. Check out the git history. You should now see two commits.
+![Screenshot to commit changes your README.md file](/carpentries-rr-vc/assets/img/rr-vc-2-4.png)
+3. Check out the git history. You should now see two commits.
 
 ## Edit and collaborate with your partner
 ### Collaborate
