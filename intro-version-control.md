@@ -11,6 +11,7 @@ How do you record the history of your projects?
 ![Screenshot to create a new GitHub Repository](/carpentries-rr-vc/assets/img/rr-vc-2-1.png)
 
 ![Final.doc comic](/carpentries-rr-vc/assets/img/final_PhD.png)
+
 [PhD Comics](http://www.phdcomics.com)
 
 ### Good - Informatively named files
