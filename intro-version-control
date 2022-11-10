@@ -1,31 +1,5 @@
 # Introduction to Version Control
 
----
-title: "Version Control via Git and Github"
-teaching: 30
-exercises: 10
-questions:
-- "How do you record the history of your projects?"
-- "What is version control?"
-objectives:
-- "Present overview of version control."
-- " "
-keypoints:
-- "Version control is an integral part of reproducible research"
-- "Manipulate data in a reproducible manner"
-output:  
-      html_document
----
-
-
-
-> ## Prerequisites
-> Installation of git:
-> - On mac and Linux git comes installed.
-> - On Windows PC, install [git for Windows](https://git-for-windows.github.io/)
-> - Create GitHub account
-{: .prereq}
-
 ## Recording the history of your projects
 ### What is version control?
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
