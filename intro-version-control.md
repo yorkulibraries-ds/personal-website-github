@@ -8,9 +8,9 @@ Version control is a system that records changes to a file or set of files over 
 How do you record the history of your projects?
 
 ### Bad - Run on file names
-![Screenshot to create a new GitHub Repository](/carpentries-rr-vc/assets/img/rr-vc-2-1.png)
+<img width="1092" alt="rr-vc-2-1" src="https://user-images.githubusercontent.com/57642282/201141723-b5360d55-4cde-4a9c-b875-d7d00a60a756.png">
 
-![Final.doc comic](/carpentries-rr-vc/assets/img/final_PhD.png)
+![final_PhD](https://user-images.githubusercontent.com/57642282/201141942-94b3395a-9972-442c-a5d9-3d085b28d42a.png)
 
 [PhD Comics](http://www.phdcomics.com)
 
