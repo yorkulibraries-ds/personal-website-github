@@ -8,8 +8,6 @@ Version control is a system that records changes to a file or set of files over 
 How do you record the history of your projects?
 
 ### Bad - Run on file names
-<img width="1092" alt="rr-vc-2-1" src="https://user-images.githubusercontent.com/57642282/201141723-b5360d55-4cde-4a9c-b875-d7d00a60a756.png">
-
 ![final_PhD](https://user-images.githubusercontent.com/57642282/201141942-94b3395a-9972-442c-a5d9-3d085b28d42a.png)
 
 [PhD Comics](http://www.phdcomics.com)
@@ -35,8 +33,7 @@ How do you record the history of your projects?
 Everytime you make a save, you zip the entire directory that your project files are in and save it with a date.
 
 ## Best - Version Control
-
-![Example of good version control](/carpentries-rr-vc/assets/img/ropensci_RNeXML.png)
+<img width="614" alt="ropensci_RNeXML" src="https://user-images.githubusercontent.com/57642282/201142849-97f7ecda-378c-44d5-a70e-2e07e5f07490.png">
 
 [Code for `RNeXML` `R` package, plus RNeXML publication in `RMarkdown`](https://github.com/ropensci/RNeXML)
 
@@ -44,13 +41,13 @@ Everytime you make a save, you zip the entire directory that your project files 
 - Version control systems start with a base version of the document and then save just the changes you made at each step of the way.
 - You can think of it as a tape: if you rewind the tape and start at the base document, then you can play back each change and end up with your latest version.
 
-![Visual representation of changes made to a file](/carpentries-rr-vc/assets/img/software_carpentry.png)
+![software_carpentry](https://user-images.githubusercontent.com/57642282/201143207-88a9f320-7fe5-4132-9d64-3e1a3914e6ae.png)
 
 [Software Carpentry](https://software-carpentry.org/)
 
 - You can then think about "playing back" different sets of changes onto the base document and getting different versions of the document.
 
-![Visual representation of merging changes](/carpentries-rr-vc/assets/img/software_carpentry_2.png)
+![Visual representation of merging changes](https://user-images.githubusercontent.com/57642282/201143482-23343565-8647-44a7-88b4-ce60469f5ca0.png)
 
 [Software Carpentry](https://software-carpentry.org/)
 
