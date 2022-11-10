@@ -1,7 +1,6 @@
 # Setup
 
-## Prerequisites
-The workshop requires:
+This workshop requires:
 - a GitHub account
 - R and RStudio installed
 - Git installed
