@@ -34,7 +34,7 @@ Everytime you make a save, you zip the entire directory that your project files 
 
 ## Best - Version Control
 
-![](../fig/motivation-01.png)
+![Example of good version control](/carpentries-rr-vc/assets/img/ropensci_RNeXML.png)
 
 [Code for `RNeXML` `R` package, plus RNeXML publication in `RMarkdown`](https://github.com/ropensci/RNeXML)
 
@@ -42,13 +42,13 @@ Everytime you make a save, you zip the entire directory that your project files 
 - Version control systems start with a base version of the document and then save just the changes you made at each step of the way.
 - You can think of it as a tape: if you rewind the tape and start at the base document, then you can play back each change and end up with your latest version.
 
-![](../fig/play-changes.png)
+![Visual representation of changes made to a file](/carpentries-rr-vc/assets/img/software_carpentry.png)
 
 [Software Carpentry](https://software-carpentry.org/)
 
 - You can then think about "playing back" different sets of changes onto the base document and getting different versions of the document.
 
-![](../fig/merge.png)
+![Visual representation of merging changes](/carpentries-rr-vc/assets/img/software_carpentry_2.png)
 
 [Software Carpentry](https://software-carpentry.org/)
 
@@ -69,6 +69,6 @@ Everytime you make a save, you zip the entire directory that your project files 
 - A common location to share off your work
 
 ### Example
-![](../fig/motivation-01.png)
+![ropensci example as hosting service](/carpentries-rr-vc/assets/img/ropensci_RNeXML_2.png)
 
 [Code for `RNeXML` `R` package, plus RNeXML publication in `RMarkdown`](https://github.com/ropensci/RNeXML)
