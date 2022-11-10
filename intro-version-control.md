@@ -71,7 +71,7 @@ Everytime you make a save, you zip the entire directory that your project files 
 - A common location to share off your work
 
 ### Example
-![ropensci example as hosting service](/carpentries-rr-vc/assets/img/ropensci_RNeXML_2.png)
+
 <img width="614" alt="ropensci_RNeXML_2" src="https://user-images.githubusercontent.com/57642282/201140953-70eb5137-8a13-4166-ba77-993be59d7921.png">
 
 [Code for `RNeXML` `R` package, plus RNeXML publication in `RMarkdown`](https://github.com/ropensci/RNeXML)
