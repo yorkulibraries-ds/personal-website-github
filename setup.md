@@ -4,7 +4,7 @@
 The workshop requires:
 - Git installed
 - a GitHub account
-- RStudio installed
+- R and RStudio installed
 
 ## Git
 Your installation for `Git` will vary depending on your operating system.
@@ -37,5 +37,8 @@ Press [Enter], you should see `SUCCESS: Specified value was saved`.
 Quit command prompt by typing `exit` then pressing [Enter]
 
 ## GitHub Account
+[Create your own free personal GitHub account](https://github.com/join)
 
-## RStudio
+## R and RStudio
+First [download R](https://cran.rstudio.com/) - Available for Windows, Mac OSX, and Linux.
+Then [download RStudio Desktop](https://posit.co/download/rstudio-desktop/) - Available for Windows, Mac OSX, and Linux.
