@@ -1,6 +1,5 @@
 # Reproducible Research Version Control
 
-Need to [contact someone](./contact.md) on the team?
 Please have followed the [setup instructions](./setup.md) before the workshop begins. There will be time at the beginning of the workshop to setup your workstation if needed.
 
 ## Modules
