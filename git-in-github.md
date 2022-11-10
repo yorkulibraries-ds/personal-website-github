@@ -1,37 +1,12 @@
----
-title: "Git in GitHub"
-teaching: 30
-exercises: 15
-questions:
-- "How should we manipulate data?"
-objectives:
-- "Define git vocabulary (commit, fork, pull request, repository, commit message)."
-- "Demonstrate ability to navigate through a GitHub repository main page."
-- "Define the difference between a directory and a repository."
-- "Create a repository on GitHub."
-- "Demonstrate ability to commit changes to text files with a commit message."
-- "Evaluate repository History."
-- "Create a pull request to someone else's repository."
-keypoints:
-- "Keep raw data read only."
-- "Manipulate data in a reproducible manner"
-output:  
-      html_document
----
 
-
-> ## Requirements
-> - Must have a GitHub account.
->
-{: .prereq}
-> ## Overview
+## Overview
 > 1. In this activity you are going to learn how to collaborate using GitHub. 
 > 1. Create a git repository hosted at GitHub
 > 1. Build README.md file
 > 1. Commit changes to repository
 > 1. Collaborate by forking and editing partners file
 > 1. Explore GitHub features: graphs, diff, blame, ect.
-{: .keypoints}
+
 
 ## Step-by-Step
 ### Create a repository with a `README.md` file
