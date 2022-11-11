@@ -51,6 +51,10 @@ Everytime you make a save, you zip the entire directory that your project files 
 
 [Software Carpentry](https://software-carpentry.org/)
 
+## Git and Github
+"A quick aside: git and GitHub are not the same thing. Git is an open-source, version control tool created in 2005 by developers working on the Linux operating system; GitHub is a company founded in 2008 that makes tools which integrate with git."
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 ## Why use Git and GitHub
 
 ### Why use Git?
