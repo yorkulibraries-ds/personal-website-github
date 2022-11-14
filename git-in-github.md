@@ -13,6 +13,7 @@ Follow along with your instructor and perform these steps:
 1. Go to your GitHub profile. The url should be http://github/your-user-name.
 2. To create a new GitHub repository, click the green "new" button, under the repositories tab. <br><br>
     > Repository: A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project   files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.<br>
+ 
 <img width="1092" alt="rr-vc-2-1" src="https://user-images.githubusercontent.com/57642282/201413235-bd0e2d4f-d768-4679-b4e3-d91dc9696e20.png">
 3. Name your repository organization-your-name, e.g. "yorku-janedoe"<br>
 4. In the details write "Tips to organizing research".<br>
@@ -74,6 +75,7 @@ _tip_: Depending on the project there are variations on the above work flow. Oft
 - A **pull request** is the final step in the collaboration process, essentially asking if the edits made to your copy can be incorporated into another repository.<br>
 > Pull: Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date.<br><br>
 > Pull Request: Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators.<br>
+
 1. Make sure you are in your copy of your partner's repository by looking at the url - your user name should preface the repository name.
 2. Click the green "New Pull Request" button. You will get an overview of the changes you made to the repository.
 3. Click the "Create a Pull Request" button to continue the pull request. Your partner will now get a notification of a pull request on their main repository, as will you if your partner made changes.
