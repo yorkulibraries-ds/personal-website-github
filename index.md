@@ -5,8 +5,13 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 ## Modules
 1. 	[Better Version Control via Git and GitHub](./intro-version-control)
 2. 	[How to use Git in GitHub](./git-in-github.md)
-3. 	[How to use Git in RStudio](./git-in-rstudio.md) 
-	  <b>NOTE: Module 3 is an optional module</b>, if you already use R and RStudio and want to introduce collaborative version control into it.
+
+<br>
+
 ## Further Resources
-- Github Resource Manual
-- 
+- Module 3: [How to use Git in RStudio](./git-in-rstudio.md) - Optional module if you already use R and RStudio and want to introduce collaborative version control into it.
+- [Git in the Command Line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
+- [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
+- [GitHub Docs: Getting Started](https://docs.github.com/en/get-started/quickstart)
+- [GitHub Pages - can be used to create free websites like this one!](https://pages.github.com/)
+
