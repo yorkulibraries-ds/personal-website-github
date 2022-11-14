@@ -4,6 +4,12 @@
 ### What is version control?
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
+### Why is version control important?
+Version control is better than mailing files back and forth!
+- Nothing committed to version control is lost. 
+- Saving previous versions allows us to revert back to previous versions as needed, much like an "undo" button.
+- Version control systems automatically notifies users when another teammate overlooks or overwrites someone elses changes.
+
 ## Question?
 How do you record the history of your projects?
 
@@ -55,7 +61,7 @@ Everytime you make a save, you zip the entire directory that your project files 
 Git and GitHub are <b>not the same thing</b>. 
 - Git is an open-source, version control tool created in 2005 by developers working on the Linux operating system; 
 - GitHub is a company founded in 2008 that makes tools which integrate with git.<br>
-Source: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+<b>Source:</b> https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 ## Why use Git and GitHub
 
