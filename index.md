@@ -3,9 +3,8 @@
 Please have followed the [setup instructions](./setup.md) before the workshop begins. There will be time at the beginning of the workshop to setup your workstation if needed.
 
 ## Modules
-1. 	[Setup](./setup.md)
-2. 	[Better Version Control via Git and GitHub](./intro-version-control)
-3. 	[How to use Git in GitHub](./git-in-github.md)
+1. 	[Better Version Control via Git and GitHub](./intro-version-control)
+2. 	[How to use Git in GitHub](./git-in-github.md)
 
 <br>
 
