@@ -13,5 +13,6 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 - [Git in the Command Line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
 - [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started/quickstart)
-- [GitHub Pages - can be used to create free websites like this one!](https://pages.github.com/)
+- [GitHub Pages](https://pages.github.com/) - can be used to create free websites like this one!
+- [GitHub Education](https://education.github.com/) - Apply to receive a Student Developer Pack with many free resources
 
