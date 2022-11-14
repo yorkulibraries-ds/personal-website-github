@@ -16,7 +16,7 @@ Follow along with your instructor and perform these steps:
 <img width="1092" alt="rr-vc-2-1" src="https://user-images.githubusercontent.com/57642282/201413235-bd0e2d4f-d768-4679-b4e3-d91dc9696e20.png">
 3. Name your repository organization-your-name, e.g. "yorku-janedoe"<br>
 4. In the details write "Tips to organizing research".<br>
-5. Click the initiate a README.md file option. <br>
+5. Click the initiate a README.md file option. <br><br>
 
 > README.md: A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.<br>
 
