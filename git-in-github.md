@@ -12,17 +12,12 @@
 Follow along with your instructor and perform these steps:
 1. Go to your GitHub profile. The url should be http://github/your-user-name.
 2. To create a new GitHub repository, click the green "new" button, under the repositories tab. <br>
-```
-Repository: A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
-```
+> Repository: A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 <img width="1092" alt="rr-vc-2-1" src="https://user-images.githubusercontent.com/57642282/201413235-bd0e2d4f-d768-4679-b4e3-d91dc9696e20.png">
 3. Name your repository organization-your-name, e.g. "yorku-janedoe"<br>
 4. In the details write "Tips to organizing research".<br>
 5. Click the initiate a README.md file option. <br>
-
-```
-README.md: A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
-```
+> README.md: A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
 6. Select to make the repository public.
 ![Screenshot to create a new GitHub Repository and select its settings](/carpentries-rr-vc/assets/img/rr-vc-2-2.png)
 
