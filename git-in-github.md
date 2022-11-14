@@ -7,6 +7,9 @@
 > 1. Collaborate by forking and editing partners file
 > 1. Explore GitHub features: graphs, diff, blame, ect.
 
+## Key Definitions from Github
+<b>Repository:</b> A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.<br> <br>
+<b>README.md:</b> A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
 
 ## Step-by-Step
 ### Create a repository with a `README.md` file
