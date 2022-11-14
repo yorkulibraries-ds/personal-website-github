@@ -12,7 +12,7 @@
 Follow along with your instructor and perform these steps:
 1. Go to your GitHub profile. The url should be http://github/your-user-name.
 2. To create a new GitHub repository, click the green "new" button, under the repositories tab. <br><br>
-    > <b>Repository:</b> A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project   files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
+    > <b>Repository:</b> A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project   files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.<br>
 <img width="1092" alt="rr-vc-2-1" src="https://user-images.githubusercontent.com/57642282/201413235-bd0e2d4f-d768-4679-b4e3-d91dc9696e20.png">
 3. Name your repository organization-your-name, e.g. "yorku-janedoe"<br>
 4. In the details write "Tips to organizing research".<br>
