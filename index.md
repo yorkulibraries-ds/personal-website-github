@@ -15,7 +15,9 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 - GitHub can be used to create free websites with [GitHub Pages](https://pages.github.com/)
   - [Create your own personal CV website using GitHub Pages templates like this one](https://academicpages.github.io/)
   - Share supplemental research for your publications on GitHub Pages
- 
+- Contribute to Open Scholarship by going with the default Public GitHub repositories. Or create a private repository and share it with select collaborators. GitHub gives flexible permission managemement.
+- GitHub Issues can be used to track todos, bugs, feature requests, and more.
+- GitHub can integrate with archiving tools like [Zenodo](https://zenodo.org/) to create permanent digital identifier objects (DOIs) to your research projects
 
 
 ## Further Resources
