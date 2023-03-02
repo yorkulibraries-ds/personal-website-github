@@ -8,13 +8,6 @@ This workshop requires:
 ## GitHub Account
 [Create your own free personal GitHub account](https://github.com/join)
 
-
-## R and RStudio
-First [download R](https://cran.rstudio.com/) - Available for Windows, Mac OSX, and Linux.
-
-Then [download RStudio Desktop](https://posit.co/download/rstudio-desktop/) - Available for Windows, Mac OSX, and Linux.
-
-
 ## Git
 Your installation for `Git` will vary depending on your operating system.
 
