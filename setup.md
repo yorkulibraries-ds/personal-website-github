@@ -2,18 +2,11 @@
 
 This workshop requires:
 - a GitHub account
-- R and RStudio installed
 - Git installed
+- Visual Studio Code installed
 
 ## GitHub Account
 [Create your own free personal GitHub account](https://github.com/join)
-
-
-## R and RStudio
-First [download R](https://cran.rstudio.com/) - Available for Windows, Mac OSX, and Linux.
-
-Then [download RStudio Desktop](https://posit.co/download/rstudio-desktop/) - Available for Windows, Mac OSX, and Linux.
-
 
 ## Git
 Your installation for `Git` will vary depending on your operating system.
@@ -44,3 +37,12 @@ Type the following line into the command prompt window exactly as shown:
 
 Press [Enter], you should see `SUCCESS: Specified value was saved`.
 Quit command prompt by typing `exit` then pressing [Enter]
+
+## Visual Studio Code
+Visual Studio Code is a free coding editor created by Microsoft. 
+
+You can download the Stable or Insiders version of the software for Mac, Linux, and Windows operating systems. The Insiders version includes the latest code pushes by developers of Visual Studio Code, and is more suitable for those at a more advanced level. If you are a **beginner**, please download the stable version of Visual Studio Code for your operating system.
+
+[Visual Studio Code download instructions](https://code.visualstudio.com/)
+
+
