@@ -20,13 +20,32 @@ Making Your Research and Scholarly Outputs Visible and Accessible can:
 Text here about this
 
 #### ORCID-iD
-Text here about Orcid
+- Free, unique, 16-digit persistent identifier for researchers engaging scholarly activities
+- The most effective way to prevent name ambiguity between yourself and other researchers 
+- Increasingly required by publishers and funding agencies
+
+##### Further Resources
+- [A Quick Tour of the ORCID Record](https://www.youtube.com/watch?v=00kaokX2n3I)
+- [ORCID + Researchers](https://info.orcid.org/researchers/)
+- [Register for an ORCID-iD](https://orcid.org/register)
+- [Building your ORCID record & connecting your iD](https://support.orcid.org/hc/en-us/categories/360000663114-Building-your-ORCID-record-connecting-your-iD)
 
 #### Open Access Publishing
 include OA investments page from the library
 
 #### Creative Commons Licensing
-maintain control on how work is used
+- Creative Commons - non-profit organization with goal of making sharing of works and reuse and/or remixing of other works easier​
+- Creative Commons licenses provide clear terms of sharing and reuse 
+- Attribution 4.0 License (or CC-BY) is the most commonly applied CC license for articles.
+
+##### Before Licensing:
+- You must be the copyright owner of the work.
+- Creative Commons Licenses cannot be revoked.
+
+##### Further Resources
+- [About Creative Commons Licenses](https://creativecommons.org/about/cclicenses/)
+- [Use and Remix Creative Commons Licensed Content](https://creativecommons.org/use-remix/)
+- [Creative Commons Guide (UBC)](https://copyright.ubc.ca/creative-commons/)
 
 #### Increase Social Media Presence
 Mastodon and Twitter
