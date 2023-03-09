@@ -14,9 +14,21 @@ There are 3 options for commiting:
 3. **Commit & Sync**: Saves changes to your local machine, pulls from your remote repository, and then pushes to your remote repository.
 
 
+<img width="1103" alt="image" src="https://user-images.githubusercontent.com/61304033/224088633-ac231725-125f-4cf0-afb6-0666b377d6b5.png">
 
-Commit will simply make record of your changes that you have made on your local machine. It will not mark the change in the remote repository.
-Commit and Push will do the above and push it to the remote repository. This means that any changes you have made will be saved to the remote repository as well.
-Commit and Sync does three things. First, it will commit. Second, it will perform a pull (grabs the updated information from the remote repo). Finally, it will push.
+After committing, sync changes and a helpful dialog pops up. Click OK.
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/61304033/224088780-61e5b696-525f-4cb5-ad3a-d8d368d7cd8a.png">
 
+<img width="261" alt="image" src="https://user-images.githubusercontent.com/61304033/224088894-212834ca-d86c-4acb-84b6-0f1b01b53994.png">
 
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/61304033/224089042-4f196d69-65c7-46de-8ea4-b356e04b7f63.png">
+
+If this is the first time syncing, it will probably ask you to sign into your GitHub account. Provide your GitHub password and click Open to Allow the extension.
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/61304033/224089579-9e59ea77-2ae1-4298-b68b-541db3d8fffe.png">
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/61304033/224089778-ab04a531-f000-411a-a0bf-ee67e4aadb72.png">
+
+### Let's check if it updated properly on GitHub and on my GitHub Pages website!
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/61304033/224090141-b318cf25-fe4b-4419-9f10-89162ecbbf6c.png">
+
+<img width="1242" alt="image" src="https://user-images.githubusercontent.com/61304033/224090281-bc52ae14-4cd8-4fc6-bfab-262685922d11.png">
+Sure enough, it has updated on both.
