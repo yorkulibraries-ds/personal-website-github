@@ -3,8 +3,8 @@
 Please have followed the [setup instructions](./setup.md) before the workshop begins. There will be time at the beginning of the workshop to setup your workstation if needed.
 
 ## Modules
-1. 
-
+1. [Increasing Your Scholarly Presence Online](./module1.md)
+2. 
 
 
 ## What else can Git/GitHub do?
