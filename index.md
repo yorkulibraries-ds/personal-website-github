@@ -3,8 +3,8 @@
 Please have followed the [setup instructions](./setup.md) before the workshop begins. There will be time at the beginning of the workshop to setup your workstation if needed.
 
 ## Modules
-1. [Increasing Your Scholarly Presence Online](./module1.md)
-2. [Academic Pages](./2-academicpages.md)
+1. [Increasing Your Scholarly Presence Online](./1-scholarly-presence.md)
+2. [GitHub Pages](./2-academicpages.md)
 3. [Editing Visual Studio Code](./3-editing-vsc.md)
 
 
