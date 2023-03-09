@@ -1,3 +1,7 @@
+# Editing Your Personal Website in Visual Studio Code
+
+## Connecting Visual Studio Code to Your GitHub Account
+
 ## Editing a Talk page in Markdown
 <img width="1142" alt="image" src="https://user-images.githubusercontent.com/61304033/224054707-b39925b4-2023-4ac9-9e41-cb83417067de.png">
 
