@@ -7,9 +7,18 @@
 ![sync settings!](https://github.com/yorkulibraries-ds/personal-website-github/blob/ccd68e1f405edbf8576fd977c29c392441f967b1/assets/img/github%20vsc%20sync%20settings.png)
 3. You will be redirected to a page called **Authorize GitHub for VS Code**. Select the **Authorize Visual-Studio-Code** button. A pop-up window will appear in Visual Studio Code. Select **Open**.
 ![VSC and GitHub Sync settings!](https://github.com/yorkulibraries-ds/personal-website-github/blob/3385bef8f78824388f321c05979954df957dacf9/assets/img/github-vsc-4.png)
-![pop-up window in VSC code](https://github.com/yorkulibraries-ds/personal-website-github/blob/3385bef8f78824388f321c05979954df957dacf9/assets/img/github-vsc-5.png)
+
+![pop-up window in VSC code!](https://github.com/yorkulibraries-ds/personal-website-github/blob/3385bef8f78824388f321c05979954df957dacf9/assets/img/github-vsc-5.png)
 
 ## Clone a Repository
+Now you're ready to create a copy of your repository on GitHub to edit on VSC!
+1. Start by going to **Source Control** and select **Clone Repository**. Select **Clone from GitHub**.
+![clone repository on VSC!](https://github.com/yorkulibraries-ds/personal-website-github/blob/3385bef8f78824388f321c05979954df957dacf9/assets/img/github-vsc-6.png)
+2. A pop-up will appear asking if you want to sign in using GitHub. Select **Allow**. Then select **Authorize Visual-Studio-Code**. Enter your GitHub password.
+
+![popup GitHub in VSC!](https://github.com/yorkulibraries-ds/personal-website-github/blob/2758cbf6807b1b3a12e090e9c0c15214da1315e5/assets/img/github-vsc-8.png)
+![authorization page VSC to GitHub!](https://github.com/yorkulibraries-ds/personal-website-github/blob/2758cbf6807b1b3a12e090e9c0c15214da1315e5/assets/img/github-vsc-9.png)
+3. Select **Open** in the pop-up appearing in VSC. Then search for the repository you wish to clone in the search bar. Select the destination for the repository on your local machine. 
 
 ## Editing a Talk page in Markdown
 <img width="1142" alt="image" src="https://user-images.githubusercontent.com/61304033/224054707-b39925b4-2023-4ac9-9e41-cb83417067de.png">
