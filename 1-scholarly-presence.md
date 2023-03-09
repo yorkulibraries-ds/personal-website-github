@@ -43,3 +43,8 @@ Something you would be happy for a potential collaborator, grant administrator, 
 The answer to all of these questions should be a vehement “yes.”
 
 ## Why Create a Website on GitHub?
+- GitHub is cloud-based, which means you can edit your website from anywhere
+- It's free!
+- Uses Markdown language, which is simple and easy to learn. 
+- GitHub pages uses Git and GitHub, which provide robust version control management. You can always roll back to a previous version of your page if you're not happy with content or layout.
+- GitHub is made for collaborative work, so you can develop a website as a team.
