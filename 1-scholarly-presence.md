@@ -1,13 +1,18 @@
 # Module 1: Increasing Your Scholarly Presence Online
-Why is this important - etc
+
 ## Scholarly Visibility and You
-Internet is big; lots of new scholars out there today
-Now more than ever, you need to create a space to differentiate yourself from other scholars online
+As a vast quantity of research and scholarly work is published online, many researchers and scholars often wonder how they will stand out amongst the crowd. The scholarly visibility tips and tricks below can help to distinguish yourself and improve the reach of your work.
 
 Making Your Research and Scholarly Outputs Visible and Accessible can:
 - Increase your chances of being noticed by other scholars in your field and in other disciplines
 - Improve the likelihood that your work is used and cited by other scholars
 - Improve your scholarly reputation
+
+Important Considerations:
+- What do you hope to gain by improving your visibility online? (i.e., find collaborators, find a job)
+- Who do you want to engage with?
+- How much information do you want to share?
+- How much time do you have to develop an online presence?
 
 ### Strategies for Increasing Scholarly Visibility:
 1. Create a personal website outlining all your academic work (what we're doing today!)
@@ -44,7 +49,20 @@ Some of the benefits of depositing work to YorkSpace include:
 - [Building your ORCID record & connecting your iD](https://support.orcid.org/hc/en-us/categories/360000663114-Building-your-ORCID-record-connecting-your-iD)
 
 #### Open Access Publishing
-include OA investments page from the library
+>Open access (OA) literature is digital, online, free of charge, and free of most copyright and licensing restrictions. -- Peter Suber, [Open Access](https://openaccesseks.mitpress.mit.edu/pub/6y6fc8k5/release/2), p.4
+
+How does publishing OA benefit authors?
+- Increases the discoverability of research, enhancing impact
+- Greater control over published works
+- Eases sharing and reuse amongst students and colleagues
+- Depositing a version of a work in an open access repository guarantees long term preservation
+
+How does OA publishing support the community?
+- Accelerates discovery/improves education
+- Equitable access to research
+- Increases transparency and accountability 
+
+York University Libraries continues to fund Open Access publishing through various agreements with publishers and memberships and funding commitments. See our [Investments in Open Access Publishing](https://www.library.yorku.ca/web/research-learn/research/oapublishing/investments-in-open-access-publishing/) page to learn more.
 
 #### Creative Commons Licensing
 - Creative Commons is a non-profit organization with goal of making sharing of works and reuse and/or remixing of other works easier
@@ -61,18 +79,29 @@ include OA investments page from the library
 - [Creative Commons Guide (UBC)](https://copyright.ubc.ca/creative-commons/)
 
 #### Increase Social Media Presence
-Mastodon and Twitter (with caution!) can be excellent places to share your research and interact with other academics in your field of research.
+Social media (particularly Twitter and Mastodon) can be excellent places to share your research and interact with other academics in your field of research.
 
-“Remember: All social media posts are a form of publication. If you would not write it in an academic review, don’t blog about it or post it on Twitter or Facebook” (Cain, 2017). 
+![Academics on Mastodon](https://github.com/yorkulibraries-ds/personal-website-github/blob/af707ed2a56628de148e5db2c9b349cc20739fae/assets/img/academics%20on%20mastodon.png)
 
-Online platforms are a source of inspiration, discovery, and delight, but they can also be a forum for hate, negativity, and exclusion. Do your part to ensure that you are contributing positively to the discourse. 
+Try [Mastodon](https://joinmastodon.org/) if you are looking for an alternative to Twitter. See the [following repository](https://nathanlesage.github.io/academics-on-mastodon/) to find lists of different academics on Mastodon as well as some tips for navigating the platform.
 
-Consider -  is the content that you are creating, sharing, or contributing to:
+##### Further Social Media Resources
+- [How Academics and Researchers Can Get More Out of Social Media](https://hbr.org/2016/06/how-academics-and-researchers-can-get-more-out-of-social-media)
+- [How Should Academics Engage Through Social Media?](https://www.psychologytoday.com/ca/blog/how-to-do-academia/202212/how-should-academics-engage-through-social-media)
+- [Social Media in Academia: Networked Scholars](https://ocul-yor.primo.exlibrisgroup.com/permalink/01OCUL_YOR/26r5oc/alma991036595645305164)
 
-At least mostly relevant or of interest to your desired audience?
-Reflective of your personal (and/or professional) values and ethics?
-Something you would be happy for a potential collaborator, grant administrator, or current student to see? 
-The answer to all of these questions should be a vehement “yes.”
+##### Use Social Media with Caution
+
+>“Remember: All social media posts are a form of publication. If you would not write it in an academic review, don’t blog about it or post it on Twitter or Facebook” (Cain, 2017). 
+
+Social media continues to be a source of inspiration and connection for many, but can also provide a platform for hate and negative discourse. Make sure you are using your platform as an academic responsibly. 
+
+Consider whether your content acheives the following goals:
+- Is it relevant for your audience?
+- Does your content reflect your values?
+- Would you feel comfortable sharing this content with a potential collaborator, a grant administrator, or a current student?
+
+The content was adapted in part from Simon Fraser University's [Visibility: Build your online presence](https://www.lib.sfu.ca/help/publish/scholarly-publishing/visibility#personal-websites) page , which is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Why Create a Website on GitHub?
 - GitHub is cloud-based, which means you can edit your website from anywhere
