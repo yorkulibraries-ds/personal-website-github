@@ -4,8 +4,8 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 
 ## Modules
 1. [Increasing Your Scholarly Presence Online](./1-scholarly-presence.md)
-2. [GitHub Pages](./2-GitHubPages.md)
-3. [Editing Visual Studio Code](./3-editing-vsc.md)
+2. [Setting up GitHub Pages](./2-GitHubPages.md)
+3. [Editing in Visual Studio Code](./3-editing-vsc.md)
 
 
 ## What else can Git/GitHub do?
@@ -21,6 +21,7 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 - [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started/quickstart)
 - [GitHub Education](https://education.github.com/) - Apply to receive a Student Developer Pack with many free resources
+- [Markdown guide](https://www.markdownguide.org/basic-syntax/) - Basic markdown syntax
 
 ## New to GitHub?
 - This workshop is the second of a two part GitHub series at York University Libraries. 
