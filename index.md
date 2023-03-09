@@ -22,3 +22,6 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started/quickstart)
 - [GitHub Education](https://education.github.com/) - Apply to receive a Student Developer Pack with many free resources
 
+## New to GitHub?
+This workshop is the second of a two part GitHub series at York University Libraries. 
+See our [Reproducible Research Version Control](https://yorkulibraries-ds.github.io/carpentries-rr-vc/) page to learn the basics!
