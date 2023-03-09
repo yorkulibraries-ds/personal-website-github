@@ -17,12 +17,25 @@ Making Your Research and Scholarly Outputs Visible and Accessible can:
 5. Increase your social media presence online.
 
 #### Institutional/Subject Based Repositories
-Text here about this
+Repositories are great places to both **preserve** and **disseminate** your scholarly work. 
+
+There are two main types of repositories:
+- Institutional repositories, such as [YorkSpace](https://yorkspace.library.yorku.ca/xmlui/)
+- Subject-based pre-print repositories, such as [medRxiv](https://www.medrxiv.org/) or [SocArXiv](https://osf.io/preprints/socarxiv).
+
+If you are a staff, faculty, librarian, and/or researcher affiliated with York University, you can submit works to YorkSpace using our [Mediated Deposit Service](https://scottlibrary.apps01.yorku.ca/machform/view.php?id=117372). Simply fill out the form and attach your **Author-Accepted Manuscript** (i.e., the version after peer-review but before publisher typesetting) to get started.
+
+Some of the benefits of depositing work to YorkSpace include: 
+- Long-term preservation of your scholarly work  
+- A permanent unique Handle (similar to a DOI), that can be linked to your online platforms and CV 
+- All items in YorkSpace are harvested by Google Scholar, which increases the discoverability of your work. 
 
 #### ORCID-iD
 - Free, unique, 16-digit persistent identifier for researchers engaging scholarly activities
 - The most effective way to prevent name ambiguity between yourself and other researchers 
 - Increasingly required by publishers and funding agencies
+
+![add biography to ORCID profile instructions](https://github.com/yorkulibraries-ds/personal-website-github/blob/75f041e587856cea4a381f5487bfd6963ce115d7/assets/img/FINAL-Add-Biography-Social-Media-Graphic-scaled%20(1).jpg)
 
 ##### Further Resources
 - [A Quick Tour of the ORCID Record](https://www.youtube.com/watch?v=00kaokX2n3I)
@@ -34,7 +47,7 @@ Text here about this
 include OA investments page from the library
 
 #### Creative Commons Licensing
-- Creative Commons - non-profit organization with goal of making sharing of works and reuse and/or remixing of other works easier​
+- Creative Commons is a non-profit organization with goal of making sharing of works and reuse and/or remixing of other works easier
 - Creative Commons licenses provide clear terms of sharing and reuse 
 - Attribution 4.0 License (or CC-BY) is the most commonly applied CC license for articles.
 
@@ -48,7 +61,7 @@ include OA investments page from the library
 - [Creative Commons Guide (UBC)](https://copyright.ubc.ca/creative-commons/)
 
 #### Increase Social Media Presence
-Mastodon and Twitter
+Mastodon and Twitter (with caution!) can be excellent places to share your research and interact with other academics in your field of research.
 
 “Remember: All social media posts are a form of publication. If you would not write it in an academic review, don’t blog about it or post it on Twitter or Facebook” (Cain, 2017). 
 
