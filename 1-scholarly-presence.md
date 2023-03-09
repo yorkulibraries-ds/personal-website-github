@@ -40,7 +40,7 @@ Some of the benefits of depositing work to YorkSpace include:
 - The most effective way to prevent name ambiguity between yourself and other researchers 
 - Increasingly required by publishers and funding agencies
 
-![add biography to ORCID profile instructions](https://github.com/yorkulibraries-ds/personal-website-github/blob/75f041e587856cea4a381f5487bfd6963ce115d7/assets/img/FINAL-Add-Biography-Social-Media-Graphic-scaled%20(1).jpg)
+<img alt="add biography to ORCID profile instructions" src= "https://github.com/yorkulibraries-ds/personal-website-github/blob/75f041e587856cea4a381f5487bfd6963ce115d7/assets/img/FINAL-Add-Biography-Social-Media-Graphic-scaled%20(1).jpg">
 
 ##### Further Resources
 - [A Quick Tour of the ORCID Record](https://www.youtube.com/watch?v=00kaokX2n3I)
@@ -69,7 +69,7 @@ York University Libraries continues to fund Open Access publishing through vario
 - Creative Commons licenses provide clear terms of sharing and reuse 
 - Attribution 4.0 License (or CC-BY) is the most commonly applied CC license for articles.
 
-![Creative Commons License Gif](https://github.com/yorkulibraries-ds/personal-website-github/blob/a5550a6b52b9e455f35406928649e0e4deb0f485/assets/img/CCLogoColorPop1.gif)
+<img alt="Creative Commons License Gif" src="https://github.com/yorkulibraries-ds/personal-website-github/blob/a5550a6b52b9e455f35406928649e0e4deb0f485/assets/img/CCLogoColorPop1.gif">
 
 ##### Before Licensing:
 - You must be the copyright owner of the work.
@@ -83,7 +83,7 @@ York University Libraries continues to fund Open Access publishing through vario
 #### Increase Social Media Presence
 Social media (particularly Twitter and Mastodon) can be excellent places to share your research and interact with other academics in your field of research.
 
-![Academics on Mastodon](https://github.com/yorkulibraries-ds/personal-website-github/blob/af707ed2a56628de148e5db2c9b349cc20739fae/assets/img/academics%20on%20mastodon.png)
+<img alt="Academics on Mastodon" src= "https://github.com/yorkulibraries-ds/personal-website-github/blob/af707ed2a56628de148e5db2c9b349cc20739fae/assets/img/academics%20on%20mastodon.png">
 
 Try [Mastodon](https://joinmastodon.org/) if you are looking for an alternative to Twitter. See the [following repository](https://nathanlesage.github.io/academics-on-mastodon/) to find lists of different academics on Mastodon as well as some tips for navigating the platform.
 
