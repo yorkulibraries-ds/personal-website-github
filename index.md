@@ -4,7 +4,7 @@ Please have followed the [setup instructions](./setup.md) before the workshop be
 
 ## Modules
 1. [Increasing Your Scholarly Presence Online](./module1.md)
-2. Module 2
+2. [Academic Pages](./2-academicpages.md)
 3. [Editing Visual Studio Code](./3-editing-vsc.md)
 
 
