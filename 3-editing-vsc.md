@@ -1,6 +1,15 @@
 # Editing Your Personal Website in Visual Studio Code
 
 ## Connecting Visual Studio Code to Your GitHub Account
+1. Start by installing the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) extension.
+![GitHub Extension!](https://github.com/yorkulibraries-ds/personal-website-github/blob/ccd68e1f405edbf8576fd977c29c392441f967b1/assets/img/GitHub%20Extension.png)
+2. Click on the account icon on the bottom left side of your screen, and select **Sign in & Turn on**. Then select **Sign in with GitHub** to sync your GitHub account to Visual Studio Code. 
+![sync settings!](https://github.com/yorkulibraries-ds/personal-website-github/blob/ccd68e1f405edbf8576fd977c29c392441f967b1/assets/img/github%20vsc%20sync%20settings.png)
+3. You will be redirected to a page called **Authorize GitHub for VS Code**. Select the **Authorize Visual-Studio-Code** button. A pop-up window will appear in Visual Studio Code. Select **Open**.
+![VSC and GitHub Sync settings!](https://github.com/yorkulibraries-ds/personal-website-github/blob/3385bef8f78824388f321c05979954df957dacf9/assets/img/github-vsc-4.png)
+![pop-up window in VSC code](https://github.com/yorkulibraries-ds/personal-website-github/blob/3385bef8f78824388f321c05979954df957dacf9/assets/img/github-vsc-5.png)
+
+## Clone a Repository
 
 ## Editing a Talk page in Markdown
 <img width="1142" alt="image" src="https://user-images.githubusercontent.com/61304033/224054707-b39925b4-2023-4ac9-9e41-cb83417067de.png">
