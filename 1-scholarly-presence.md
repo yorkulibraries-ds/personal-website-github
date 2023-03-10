@@ -1,7 +1,7 @@
 # Module 1: Increasing Your Scholarly Presence Online
 
 ## Scholarly Visibility and You
-As a vast quantity of research and scholarly work is published online, many researchers and scholars often wonder how they will stand out amongst the crowd. The scholarly visibility tips and tricks below can help to distinguish yourself and improve the reach of your work.
+As vast quantities of research and scholarly work are published online, many researchers and scholars often wonder how they will stand out amongst the crowd. The scholarly visibility tips and tricks below can help to distinguish yourself and improve the reach of your work.
 
 Making Your Research and Scholarly Outputs Visible and Accessible can:
 - Increase your chances of being noticed by other scholars in your field and in other disciplines
