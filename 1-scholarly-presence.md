@@ -83,7 +83,6 @@ York University Libraries continues to fund Open Access publishing through vario
 #### Increase Social Media Presence
 Social media (particularly Twitter and Mastodon) can be excellent places to share your research and interact with other academics in your field of research.
 
-<img width="1124" alt="Academics on Mastodon" src= "https://github.com/yorkulibraries-ds/personal-website-github/blob/af707ed2a56628de148e5db2c9b349cc20739fae/assets/img/academics%20on%20mastodon.png">
 ![Academics on Mastodon](assets/img/academics%20on%20mastodon.png)
 
 Try [Mastodon](https://joinmastodon.org/) if you are looking for an alternative to Twitter. See the [following repository](https://nathanlesage.github.io/academics-on-mastodon/) to find lists of different academics on Mastodon as well as some tips for navigating the platform.
